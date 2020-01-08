@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7b6ff70.chunk.css",
+    "main.js": "/static/js/main.855d99ab.chunk.js",
+    "main.js.map": "/static/js/main.855d99ab.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.ef761deb.chunk.js": "/static/js/2.ef761deb.chunk.js",
+    "static/js/2.ef761deb.chunk.js.map": "/static/js/2.ef761deb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4768a9ebf31fac1cca45ea76aaa4c83f.js": "/precache-manifest.4768a9ebf31fac1cca45ea76aaa4c83f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e7b6ff70.chunk.css.map": "/static/css/main.e7b6ff70.chunk.css.map",
+    "static/media/common.css": "/static/media/baby_bg.77a8fa24.jpg",
+    "static/media/facebook.png": "/static/media/facebook.3520ceeb.png",
+    "static/media/google.png": "/static/media/google.ea1c270f.png",
+    "static/media/logo.png": "/static/media/logo.a7fdb37a.png",
+    "static/media/styles.css": "/static/media/segoeui.c5ae2de1.eot"
+  }
+}
