@@ -42,10 +42,10 @@ app.use(function(err, req, res, next) {
   res.status(err.status || 500).send('error ');
 });
 
-mongoose.connect(mongo.uri, mongo.options);
+// mongoose.connect(mongo.uri, mongo.options);
 
-mongoose.connection.on('error', err => {
-    console.log(err);
-  });
+// mongoose.connection.on('error', err => {
+//     console.log(err);
+//   });
 
 module.exports = app;
