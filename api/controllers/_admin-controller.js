@@ -25,7 +25,7 @@ export const adminlist = async (req, res) => {
 };
 
 export const create = async (req, res) => {
-  
+
   try {
     const createAdmin = await admin.create(req.body);
     return Response(res, 200, "OK", {

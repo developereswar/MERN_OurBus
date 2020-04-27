@@ -31,7 +31,6 @@ const adminSchema =  new Schema({
 adminSchema
     .virtual("password")
     .set(function(password){
-        console.log(password)
         if(password){
            
             this._password = password;

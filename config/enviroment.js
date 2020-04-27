@@ -1,7 +1,7 @@
 
 
 export const mongo = {
-    uri: 'mongodb://127.0.0.1:27017/ourbus',
+    hostName: 'mongodb://127.0.0.1:27017/ourbus',
     options: { 'useNewUrlParser': true, 'useUnifiedTopology': true, 'useFindAndModify': false, 'useCreateIndex': true, 'useUnifiedTopology': true }
 }
 
